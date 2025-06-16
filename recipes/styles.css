@@ -1,0 +1,15 @@
+body {
+    color: #385959;
+    background-color: #daeded;
+    font-size: large;
+  }
+
+h1 {
+  text-align: center;
+  color: #385959;
+  font-size: 60px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.links{
+  text-align: center;
+}
